@@ -1,0 +1,78 @@
+{
+    "broadArea": {
+	"name": "Civil Engineering",
+	"link": "http://vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "Environmental Engineering 2",
+    "phase":"3",
+    "deployLab":true,
+    "collegeName": "NITS",
+    "baseUrl": "http://ee2-nitk.vlabs.ac.in",
+    "introduction": "Welcome to the Environmental Engineering Lab",
+    "experiments": [
+	    {
+	        "name": "Determination of Chemical Oxygen Demand",
+		"short-name": "chemical-oxygen",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true 
+	    }, {
+	        "name": "Alum Coagulation",
+		"short-name": "alum-coagulation",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Determination of Break-Point Chloride demand in water",
+		"short-name": "chloride-demand-in-water",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-break-point-chloride-demand-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true 
+	    }, {
+	        "name": "Determination of Sulphate in water",
+		"short-name": "sulphate-in-water",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-sulphate-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Determination of Flouride in water",
+		"short-name": "flouride-in-water",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-fluoride-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true 
+	    }, {
+	        "name": "Determination of Dissolved Oxygen in water ",
+		"short-name": "oxygen-in-water",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-dissolved-oxygen-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Determination of Turbidity in water",
+		"short-name": "turbidity-in-water",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-turbidity-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+        }
+    ],
+    "targetAudience": {
+	"UG": [
+	    "B. Tech./ B.E in Civil Engineering"
+	],
+	"PG": [
+	    "MS/Ph. D. Beginners in Civil Engineering and related topics"
+	]
+    },
+    "objective": "This lab provides the knowledge on tests used to analyse the physio-chemical and bacteriological properties of water and explains the various method followed in the test along with its suitability as a drinking water",
+    "courseAlignment": {
+	"description": "The syllabi of this lab aligns to the following universities in India.",
+	"universities": [
+	    "S.K.Garg, Environmental Engineering vol-I, Water supply Engineering – M/s Khanna Publishers, New Delhi 2010",
+	    "B.C. Punmia and Ashok Jain, Environmental Engineering I-Water Supply Engineering, Laxmi Publications (P) Ltd., New Delhi 2010",
+	    "Howard S. Peavy, Donald R. Rowe, George T , Environmental Engineering - McGraw Hill International Edition. New York, 2000",
+	    "Lab Manual, ISO 14001 Environmental Management, Regulatory Standards for Drinking Water and Sewage disposal",
+	    "Clair Sawyer and Perry McCarty and Gene Parkin, “Chemistry for Environmental Engineering and Science” , McGraw-Hill Series in Civil and Environmental Engineering",
+	    "Mark.J Hammer, Water & Waste Water Technology, John Wiley & Sons Inc., New York, 2008",
+	    "CPHEEO Manual on water supply and treatment engineering, Ministry of Urban Development, Government of India, New Delhi"	    
+	]
+    }
+}
