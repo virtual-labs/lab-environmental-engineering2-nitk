@@ -13,43 +13,43 @@
 	    {
 	        "name": "Determination of Chemical Oxygen Demand",
 		"short-name": "chemical-oxygen",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-chemical-oxygen-demand-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true 
 	    }, {
 	        "name": "Alum Coagulation",
 		"short-name": "alum-coagulation",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
 	        "name": "Determination of Break-Point Chloride demand in water",
 		"short-name": "chloride-demand-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-break-point-chloride-demand-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-break-point-chloride-demand-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true 
 	    }, {
 	        "name": "Determination of Sulphate in water",
 		"short-name": "sulphate-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-sulphate-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-sulphate-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
 	        "name": "Determination of Flouride in water",
 		"short-name": "flouride-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-fluoride-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-fluoride-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true 
 	    }, {
 	        "name": "Determination of Dissolved Oxygen in water ",
 		"short-name": "oxygen-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-dissolved-oxygen-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-dissolved-oxygen-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
 	        "name": "Determination of Turbidity in water",
 		"short-name": "turbidity-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-nitk/determination-turbidity-nitk.git",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-turbidity-nitk",
  	        "tag": "v1.0.0",
          	"deploy": true
         }
