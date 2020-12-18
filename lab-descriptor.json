@@ -1,77 +1,82 @@
 {
-    "broadArea": {
-	"name": "Civil Engineering",
-	"link": "http://vlab.co.in/broad-area-civil-engineering"
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "http://vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Environmental Engineering 2",
+  "phase": 3,
+  "deployLab": true,
+  "collegeName": "NITS",
+  "baseUrl": "ee2-nitk.vlabs.ac.in",
+  "introduction": "Welcome to the Environmental Engineering Lab",
+  "experiments": [
+    {
+      "name": "Determination of Chemical Oxygen Demand",
+      "short-name": "chemical-oxygen",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-chemical-oxygen-demand-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "lab": "Environmental Engineering 2",
-    "phase":"3",
-    "deployLab":true,
-    "collegeName": "NITS",
-    "baseUrl": "http://ee2-nitk.vlabs.ac.in",
-    "introduction": "Welcome to the Environmental Engineering Lab",
-    "experiments": [
-	    {
-	        "name": "Determination of Chemical Oxygen Demand",
-		"short-name": "chemical-oxygen",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-chemical-oxygen-demand-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true 
-	    }, {
-	        "name": "Alum Coagulation",
-		"short-name": "alum-coagulation",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Break-Point Chloride demand in water",
-		"short-name": "chloride-demand-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-break-point-chloride-demand-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true 
-	    }, {
-	        "name": "Determination of Sulphate in water",
-		"short-name": "sulphate-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-sulphate-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Flouride in water",
-		"short-name": "flouride-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-fluoride-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true 
-	    }, {
-	        "name": "Determination of Dissolved Oxygen in water ",
-		"short-name": "oxygen-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-dissolved-oxygen-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-	    }, {
-	        "name": "Determination of Turbidity in water",
-		"short-name": "turbidity-in-water",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-turbidity-nitk",
- 	        "tag": "v1.0.0",
-         	"deploy": true
-        }
-    ],
-    "targetAudience": {
-	"UG": [
-	    "B.E/B.Tech in Civil Engineering and Environment Engineering"
-	],
-	"PG": [
-	    "M.Tech/MS in Environment Engineering",
-	    "Diploma in Civil Engineering"	
-	]
+    {
+      "name": "Alum Coagulation",
+      "short-name": "alum-coagulation",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/alum-coagulation-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     },
-    "objective": "This lab provides the knowledge on tests used to analyse the physio-chemical and bacteriological properties of water and explains the various method followed in the test along with its suitability as a drinking water.",
-    "courseAlignment": {
-	"description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
-	"universities": [
-	    "Environmental Engineering - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University",
-	    "Environmental Engineering II - APJ Abdul Kalam Technological University",
-	    "Environmental Engineering Laboratory - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University",
-	    "Waste Supply Engineering - Anna University",
-	    "Water and Waste Water Analysis Laboratory - Anna University"	    
-	]
+    {
+      "name": "Determination of Break-Point Chloride demand in water",
+      "short-name": "chloride-demand-in-water",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-break-point-chloride-demand-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Sulphate in water",
+      "short-name": "sulphate-in-water",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-sulphate-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Flouride in water",
+      "short-name": "flouride-in-water",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-fluoride-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Dissolved Oxygen in water ",
+      "short-name": "oxygen-in-water",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-dissolved-oxygen-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "Determination of Turbidity in water",
+      "short-name": "turbidity-in-water",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/environmental-engineering-2-nitk/determination-of-turbidity-nitk",
+      "tag": "v1.0.3",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": ["B.E/B.Tech in Civil Engineering and Environment Engineering"],
+    "PG": [
+      "M.Tech/MS in Environment Engineering",
+      "Diploma in Civil Engineering"
+    ]
+  },
+  "objective": "This lab provides the knowledge on tests used to analyse the physio-chemical and bacteriological properties of water and explains the various method followed in the test along with its suitability as a drinking water.",
+  "courseAlignment": {
+    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab :",
+    "universities": [
+      "Environmental Engineering - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University",
+      "Environmental Engineering II - APJ Abdul Kalam Technological University",
+      "Environmental Engineering Laboratory - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University",
+      "Waste Supply Engineering - Anna University",
+      "Water and Waste Water Analysis Laboratory - Anna University"
+    ]
+  },
+  "version": "v1.0.3"
 }
