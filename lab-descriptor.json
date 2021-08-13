@@ -14,49 +14,49 @@
       "name": "Determination of Chemical Oxygen Demand",
       "short-name": "chemical-oxygen",
       "repo": "https://github.com/virtual-labs/exp-chemical-oxygen-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Alum Coagulation",
       "short-name": "alum-coagulation",
       "repo": "https://github.com/virtual-labs/exp-alum-coagulation-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Break-Point Chloride demand in water",
       "short-name": "chloride-demand-in-water",
       "repo": "https://github.com/virtual-labs/exp-chloride-demand-in-water-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Sulphate in water",
       "short-name": "sulphate-in-water",
       "repo": "https://github.com/virtual-labs/exp-sulphate-in-water-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Flouride in water",
       "short-name": "flouride-in-water",
       "repo": "https://github.com/virtual-labs/exp-flouride-in-water-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Dissolved Oxygen in water ",
       "short-name": "oxygen-in-water",
       "repo": "https://github.com/virtual-labs/exp-oxygen-in-water-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Turbidity in water",
       "short-name": "turbidity-in-water",
       "repo": "https://github.com/virtual-labs/exp-turbidity-in-water-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
