@@ -14,7 +14,7 @@
       "name": "Determination of Chemical Oxygen Demand",
       "short-name": "chemical-oxygen",
       "repo": "https://github.com/virtual-labs/exp-chemical-oxygen-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -35,7 +35,7 @@
       "name": "Determination of Sulphate in water",
       "short-name": "sulphate-in-water",
       "repo": "https://github.com/virtual-labs/exp-sulphate-in-water-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
@@ -49,14 +49,14 @@
       "name": "Determination of Dissolved Oxygen in water ",
       "short-name": "oxygen-in-water",
       "repo": "https://github.com/virtual-labs/exp-oxygen-in-water-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Determination of Turbidity in water",
       "short-name": "turbidity-in-water",
       "repo": "https://github.com/virtual-labs/exp-turbidity-in-water-nitk",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     }
   ],
