@@ -7,7 +7,7 @@
   "lab_display_name": "Environmental Engineering 2",
   "phase": 3,
   "deployLab": true,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "ee2-nitk.vlabs.ac.in",
   "introduction": "Welcome to the Environmental Engineering Lab",
   "experiments": [
@@ -79,7 +79,7 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   },
-  "version": "v1.8.0",
+  "version": "v1.9.0",
   "exp_name": "Determination of Turbidity in water",
   "exp_short_name": "turbidity-in-water"
 }
