@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Environmental Engineering 2",
+  "lab_display_name": "Environmental Engineering 2",
   "phase": 3,
   "deployLab": true,
   "collegeName": "NITS",
@@ -78,7 +79,7 @@
       "Water and Waste Water Analysis Laboratory - Anna University"
     ]
   },
-  "version": "v1.7.0",
+  "version": "v1.8.0",
   "exp_name": "Determination of Turbidity in water",
   "exp_short_name": "turbidity-in-water"
 }
