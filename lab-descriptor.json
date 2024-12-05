@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Civil Engineering",
     "link": "http://vlab.co.in/broad-area-civil-engineering",
-    "code":"CIVIL"
+    "code": "CIVIL"
   },
   "lab": "Environmental Engineering 2",
   "lab_display_name": "Environmental Engineering 2",
@@ -16,7 +16,7 @@
       "name": "Determination of Chemical Oxygen Demand",
       "short-name": "chemical-oxygen",
       "repo": "https://github.com/virtual-labs/exp-chemical-oxygen-nitk",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -63,7 +63,9 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B.E/B.Tech in Civil Engineering and Environment Engineering"],
+    "UG": [
+      "B.E/B.Tech in Civil Engineering and Environment Engineering"
+    ],
     "PG": [
       "M.Tech/MS in Environment Engineering",
       "Diploma in Civil Engineering"
